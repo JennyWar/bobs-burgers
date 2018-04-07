@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.pinimg.com/736x/ce/1b/e3/ce1be30f768b550e66fb0eb21c3a1eba--bobs-burgers-characters-bob-s.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "http://img2.tvtome.com/i/u/vL/b39f09c75ce4433bc34a09cbedb134cc.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/Tina-Belcher-Bobs-Burgers.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "http://2.bp.blogspot.com/-tnztVu5dcRk/VSw9TtmNNJI/AAAAAAAAANk/8q0BAEVTeL4/s1600/bobs-burgers%2B2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://i.pinimg.com/originals/66/f7/bc/66f7bc2fdf6d53b4da41a05967372eef.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i.pinimg.com/originals/93/36/a7/9336a7ee632c026d7dbe34b3a2390b1e.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c7/Samantha.jpg/revision/latest?cb=20150720103737",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/bobs-burgers/images/5/5e/Teddy.png/revision/latest?cb=20150921125155&path-prefix=de",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://d1o51r9qdgnnlz.cloudfront.net/static_image/94862959-6a08-4a1f-993f-8c5dbf6c019b/static.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/e9/Tammy_Larsen.jpg/revision/latest?cb=20150721110758",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/47/Speedo.jpg/revision/latest?cb=20150722172314",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/ba/Asch.jpg/revision/latest?cb=20150807133459",
+    "clicked": false
+  }
+]
+
+

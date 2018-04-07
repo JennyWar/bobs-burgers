@@ -1,0 +1,30 @@
+.titleImage {
+    position: relative;
+    z-index: -1;  
+}
+
+.titleHeader {
+    position: absolute;
+    left: 0;
+    top: 3%;
+    width: 100%;
+    color: black;
+    text-align: center;
+    background-color: #ffffff;
+    border: 0.2px solid black;
+    opacity: 0.8;
+    font-family: 'Rock Salt', cursive;
+}
+
+.bobLogo{
+    width: 30%;
+    height: 30%;
+    margin-top: 2%;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+}
